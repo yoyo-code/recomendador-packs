@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow: hidden; /* Esto es lo que ya tienes */
+}
+
+/* Tu contenedor principal */
+.flex.items-center.justify-center.h-screen {
+  overflow-y: auto; /* Permite el desplazamiento vertical */
+  height: 100vh; /* Establece la altura al 100% de la ventana del navegador */
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.flex.items-center.justify-center.h-screen::-webkit-scrollbar {
+  display: none; /* Chrome and Safari */
+}
+
+/* Para Firefox */
+.container::-webkit-scrollbar {
+  width: 0;
+  background: transparent; /* Hacer la barra de desplazamiento completamente transparente */
+}
+
+/* Para Chrome, Safari y Opera */
+.container::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+.container::-webkit-scrollbar-thumb {
+  background: transparent; /* Hacer la barra de desplazamiento completamente transparente */
+}

@@ -1,0 +1,37 @@
+Preguntas:
+[
+    {
+        "pregunta": "¿Desde cuándo experimenta estos dolores de cabeza?"
+    },
+    {
+        "pregunta": "¿Puede describir el dolor (intensidad, ubicación, tipo de dolor como punzante, palpitante)?"
+    },
+    {
+        "pregunta": "¿Hay algo que parece desencadenar el dolor de cabeza?"
+    },
+    {
+        "pregunta": "¿El dolor de cabeza se presenta con otros síntomas como náuseas, visión borrosa, sensibilidad a la luz o al ruido?"
+    },
+    {
+        "pregunta": "¿Ha tenido episodios similares en el pasado? Si es así, ¿fue diagnosticado con alguna condición?"
+    },
+    {
+        "pregunta": "¿Está tomando algún medicamento actualmente?"
+    },
+    {
+        "pregunta": "¿Se ha medido la presión arterial recientemente?"
+    }
+]
+
+Orientacion:
+
+{
+    "orientacion": "Por los síntomas que describes, podrías estar experimentando un tipo de cefalea primaria conocida como migraña. La migraña se caracteriza por dolores de cabeza intensos, a menudo acompañados de náuseas 🤢. No hay un desencadenante específico para todos los casos, y cada persona puede tener desencadenantes diferentes. Te recomendaría que acudas a un médico para una consulta y un diagnóstico más preciso. En la consulta, el médico probablemente te preguntará sobre tus síntomas en detalle, así como sobre tu historial médico. Podrían recomendarte exámenes de sangre para descartar otras posibles causas de tus síntomas. ¡No te preocupes!👨‍⚕️🩺. Si los dolores de cabeza persisten o se vuelven más severos, ve al médico de inmediato. 🚑",
+    "urgencia": 3,
+    "explicacionUrgencia": "Aunque tu dolor de cabeza es intenso y está acompañado de náuseas, no parece ser una emergencia ya que no mencionaste otros síntomas alarmantes como fiebre alta o rigidez en el cuello. Sin embargo, es importante que consultes a un médico para obtener un diagnóstico y tratamiento adecuado.",
+    "palabrasclave": [
+        "migraña",
+        "dolor de cabeza",
+        "náuseas"
+    ]
+}
