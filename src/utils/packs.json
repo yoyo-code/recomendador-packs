@@ -1,0 +1,284 @@
+[
+  {
+    "id": 38,
+    "name": "Sospecha pubertad precoz",
+    "prepare": "No requiere preparación",
+    "advantages": [
+      "Puede ser crecimiento mamario, cambio de color de areolas, aparición de vello púbico, cambio en la voz, entre otros"
+    ],
+    "description": "Pack con el objetivo de determinar si un niño o niña está presentando cambios en su desarrollo \"antes de tiempo\", o sea, antes de la edad límite según sexo: 8 años en niñas y 9 años en niños."
+  },
+  {
+    "id": 6,
+    "name": "Chequeo detección drogas",
+    "prepare": "no requiere preparación.",
+    "advantages": ["prevención para estrategia de cambio de hábitos"],
+    "description": "Pack para detección en sangre de las principales drogas de abuso."
+  },
+  {
+    "id": 10,
+    "name": "Chequeo salud ocupacional",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": ["Prevención y atención oportuna"],
+    "description": "Exámenes generales para controles rutinarios de salud a colaboradores de una empresa"
+  },
+  {
+    "id": 11,
+    "name": "Confirmación de embarazo ",
+    "prepare": "No requiere preparación",
+    "advantages": ["Confirma o descarta si estás embarazada"],
+    "description": "En mujeres fértiles, examen de sangre para determinar si están o no cursando con un embarazo."
+  },
+  {
+    "id": 39,
+    "name": "Test auditivo",
+    "prepare": "No requiere preparación",
+    "advantages": ["Mide la calidad de tu audición de forma objetiva"],
+    "description": "Test que determina la calidad de la audición en el adulto y, según los resultados, la posibilidad de corregirla con uso de audífonos."
+  },
+  {
+    "id": 12,
+    "name": "Control prenatal 35 - 37 sem",
+    "prepare": "No requiere preparación.",
+    "advantages": ["Evitar complicaciones del embarazo y del parto"],
+    "description": "Control de exámenes en la última etapa del embarazo, con el fin de descartar infecciones que pudieran comprometer la salud del recién nacido."
+  },
+  {
+    "id": 21,
+    "name": "Pack preventivo deportistas",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": ["Ejercítate de manera responsable"],
+    "description": "Para gente que practica o quiere practicar deportes de alta exigencia. Principalmente enfocado en pesquisar problemas de base que pudieran empeorar con el ejercicio de alta intensidad."
+  },
+  {
+    "id": 27,
+    "name": "Sospecha Asma Bronquial",
+    "prepare": "No requiere preparación",
+    "advantages": [
+      "Diagnóstico e inicio de tratamiento para mejorar calidad de vida"
+    ],
+    "description": "Pack que ayuda a determinar si nuestras vías respiratorias tienden a obstruirse ante la presencia de algunos alergenos, cambios bruscos de temperatura o infecciones, lo que puede generar sensación de ahogo."
+  },
+  {
+    "id": 34,
+    "name": "Preventivo hígado graso",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": ["Intervención temprana para corregir y evitar mayor daño"],
+    "description": "Pack de exámenes para determinar si hay infiltración grasa en el hígado, lo que puede generar daño con el tiempo. Realizable en cualquier paciente adulto, pero principalmente con sobrepeso o malos hábitos alimenticios."
+  },
+  {
+    "id": 41,
+    "name": "Pack preventivo patologías tiroídeas",
+    "prepare": "No requiere preparación.",
+    "advantages": [
+      "Mantén tu salud controlada. Se recomienda chequear al menos cada 5 años a partir de los 35."
+    ],
+    "description": "Examen para verificar la función de la tiroides que, cuando falla, puede influir en la tolerancia al frío, variaciones de peso, estados de ánimo, entre otros problemas."
+  },
+  {
+    "id": 37,
+    "name": "Sospecha enfermedad celíaca",
+    "prepare": "No requiere preparación",
+    "advantages": [
+      "Detección para manejo nutricional y mejora de calidad de vida."
+    ],
+    "description": "Pack para descartar si producimos anticuerpos que hagan que no podamos tolerar el Gluten (proteína del trigo), lo que podría producir malestar y daño en nuestro intestino delgado."
+  },
+  {
+    "id": 7,
+    "name": "Chequeo fertilidad masculina",
+    "prepare": "No requiere preparación",
+    "advantages": ["Complementario para estudio de planificación familiar"],
+    "description": "Pack para evaluar la posibilidad de un hombre de producir espermatozoides sanos y en cantidad suficiente para fecundar un óvulo y lograr un embarazo."
+  },
+  {
+    "id": 16,
+    "name": "Detección de alergias",
+    "prepare": "No requiere preparación",
+    "advantages": ["Prevención de complicaciones como anafilaxias severas"],
+    "description": "Test para determinar si presentamos anticuerpos específicos contra un listado de los principales alérgenos presentes en el entorno."
+  },
+  {
+    "id": 20,
+    "name": "Pack Go Vegan",
+    "prepare": "No requiere preparación.",
+    "advantages": ["Aliméntate de forma responsable"],
+    "description": "Pack preventivo para gente vegana y/o vegetariana, que busca posibles déficit nutricionales para poder suplementarlos en caso de ser necesario."
+  },
+  {
+    "id": 28,
+    "name": "Preventivo cáncer de colon",
+    "prepare": "Uso de laxantes 3 días previos (según esquema de centro donde se realizará estudio) + ayuno 12 horas previas",
+    "advantages": ["Prevenir y tratar cáncer de Colon de forma oportuna"],
+    "description": "Estudio enfocado y recomendado en personas de 45 años o más; principalmente quienes presenten síntomas tales como sangrado rectal, cambios en su hábito intestinal (constipación o diarrea), dolor abdominal, baja de peso."
+  },
+  {
+    "id": 3,
+    "name": "Chequeo Infecciones de transmisión sexual (ITS)",
+    "prepare": "No requiere preparación",
+    "advantages": [
+      "Se recomienda una vez al año en personas con vida sexual activa, o antes en caso de mantener relaciones de riesgo (sin preservativo, pareja no estable)."
+    ],
+    "description": "Set de exámenes de sangre para descartar presencia de las principales infecciones de transmisión sexual."
+  },
+  {
+    "id": 8,
+    "name": "Chequeo fumadores",
+    "prepare": "No requiere preparación",
+    "advantages": ["Detección precoz de complicaciones del cigarrillo"],
+    "description": "Chequeo general que en busca de posibles daños del cigarrillo en la función del pulmón y/o la presencia de lesiones pulmonares sospechosas secundarias a su consumo."
+  },
+  {
+    "id": 13,
+    "name": "Control prenatal 28 - 32 sem",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": ["Prevenir complicaciones del embarazo y del parto"],
+    "description": "Control de exámenes rutinario para embarazadas, con énfasis en descartar diabetes gestacional, anemia y sífilis."
+  },
+  {
+    "id": 18,
+    "name": "EMPA Mujeres +40 (examen preventivo del adulto)",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": [
+      "Prevención e intervención temprana con cambio de hábitos y, si requiere, tratamiento médico"
+    ],
+    "description": "Exámenes generales de medicina preventiva para mujeres mayores de 40 años."
+  },
+  {
+    "id": 4,
+    "name": "Chequeo Infección urinaria",
+    "prepare": "Muestra: Orina segunda micción (\"segundo chorro\")",
+    "advantages": [
+      "Realizar examen antes de inicio de antibióticos, para terapia dirigida"
+    ],
+    "description": "Exámenes para descartar infección bacteriana en las vías urinarias, manifestada generalmente como dolor/ardor al orinar, orina frecuente y en pequeñas cantidades, y/o la sensación de que al orinar \"quedas con ganas\""
+  },
+  {
+    "id": 9,
+    "name": "Chequeo salud capilar",
+    "prepare": "No requiere preparación",
+    "advantages": [
+      "Encontrar y corregir algunas causas reversibles de calvicie"
+    ],
+    "description": "Exámenes iniciales para estudiar posibles causantes de caída del cabello"
+  },
+  {
+    "id": 15,
+    "name": "Control sobrepeso, obesidad y resistencia a la insulina ",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": ["Prevención e intervención temprana para cambio de hábitos"],
+    "description": "Pack de exámenes para estudiar las posibles consecuencias del sobrepeso en nuestro organismo."
+  },
+  {
+    "id": 23,
+    "name": "Preventivo General",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": ["Mantén tus chequeos de salud al día"],
+    "description": "Pack para verificar, a grandes rasgos, que todo esté en orden en nuestro organismo"
+  },
+  {
+    "id": 2,
+    "name": "COVID-19 ",
+    "prepare": "No requiere preparación.",
+    "advantages": [
+      "Casi 100% de Sensibilidad y Especificidad. Resultados rápidos."
+    ],
+    "description": "Test para confirmar o descartar infección por el virus SARS-CoV 2."
+  },
+  {
+    "id": 42,
+    "name": "Pack preventivo huesos",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": [
+      "Determina si se puede suplementar para prevenir su aparición o progresión según corresponda."
+    ],
+    "description": "Pack para personas que quieran saber si tienen osteoporosis, enfermedad que debilita los huesos, u osteopenia, su etapa previa."
+  },
+  {
+    "id": 5,
+    "name": "Chequeo consumo de alcohol",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": ["Prevención e intervención temprana para cambio de hábitos"],
+    "description": "Chequeo para personas que toman alcohol de forma regular y/o en cantidades importantes, para encontrar posibles complicaciones o déficit nutricionales secundarias a su consumo."
+  },
+  {
+    "id": 17,
+    "name": "EMPA Hombres +40 (examen preventivo del adulto)",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": [
+      "Prevención e intervención temprana con cambio de hábitos y, si requiere, tratamiento médico"
+    ],
+    "description": "Exámenes generales de medicina preventiva para hombres mayores de 40 años."
+  },
+  {
+    "id": 19,
+    "name": "Ingreso control prenatal",
+    "prepare": "ayuno 8 a 12 horas previas",
+    "advantages": ["Asegúrate de llevar un embarazo seguro"],
+    "description": "Primer control de exámenes generales del embarazo, para descartar enfermedades de base de la madre, que pudieran ponerla en riesgo a ella y/o al bebé."
+  },
+  {
+    "id": 43,
+    "name": "Control Cardiovascular crónico",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": [
+      "Controla y previene complicaciones de tus enfermedades de base"
+    ],
+    "description": "Exámenes rutinarios para personas con enfermedades que comprometen el sistema cardiovascular, tales como diabetes, enfermedad renal crónica, hipertensión arterial, entre otras."
+  },
+  {
+    "id": 22,
+    "name": "Preventivo Alzheimer",
+    "prepare": "No requiere preparación",
+    "advantages": [
+      "Importante: un resultado negativo no descarta que se pueda desarrollar esta u otro tipo de demencias."
+    ],
+    "description": "Examen para determinar si se tiene predisposición genética a desarrollar enfermedad de Alzheimer."
+  },
+  {
+    "id": 25,
+    "name": "Preventivo adulto mayor mujer",
+    "prepare": "Ayuno 8 a 12 horas previas.",
+    "advantages": ["Por una vejez sana y con calidad de vida."],
+    "description": "Exámenes preventivos para mujeres mayores de 65 años, para evaluar posibles cambios secundarios a la edad."
+  },
+  {
+    "id": 24,
+    "name": "Preventivo adulto mayor hombre",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": ["Por una vejez sana y con calidad de vida"],
+    "description": "Exámenes preventivos para hombres mayores de 65 años, para evaluar posibles cambios en el organismo secundarios a la edad."
+  },
+  {
+    "id": 26,
+    "name": "Sospecha Artitris Reumatoide",
+    "prepare": "No requiere preparación",
+    "advantages": [
+      "Diagnóstico y tratamiento oportuno para mejorar calidad de vida."
+    ],
+    "description": "Para casos en que se sospeche Artritis Reumatoide, enfermedad que se caracteriza por dolores articulares múltiples, principalmente en articulaciones PEQUEÑAS (por ejemplo manos, pies)."
+  },
+  {
+    "id": 30,
+    "name": "Preventivo cáncer de próstata",
+    "prepare": "No requiere preparación. Siempre complementar con Tacto Rectal por médic@.",
+    "advantages": ["Detección temprana y tratamiento cáncer de próstata"],
+    "description": "Pack para descartar o diagnosticar cáncer de próstata. Se recomienda en todos los hombres mayores a 50 años, con expectativa de vida mayor a 10 años. Adelantar a los 45 años en caso de que tengan un familiar de primer grado (padre/hermano) que haya tenido cáncer de próstata antes de los 65 años. Adelantar a los 40 años en caso de que tengan más de un familiar de primer grado con esta característica."
+  },
+  {
+    "id": 31,
+    "name": "Preventivo cáncer gástrico",
+    "prepare": "Ayuno 12 horas previas",
+    "advantages": ["Detección temprana de Cáncer gástrico"],
+    "description": "Estudio enfocado y recomendado principalmente en personas con síntomas como reflujo, malestar abdominal \"en la boca del estómago\", sensación de saciedad constante, baja de peso no intencionada, u otros malestares abdominales."
+  },
+  {
+    "id": 32,
+    "name": "Preventivo general KIDS",
+    "prepare": "Ayuno 8 a 12 horas previas",
+    "advantages": [
+      "Mantén a tus hij@s san@s para que puedan seguir disfrutando"
+    ],
+    "description": "exámenes generales para evaluar los principales sistemas en un niño o una niña, con el fin de prevenir y buscar posibles alteraciones corregibles."
+  }
+]
